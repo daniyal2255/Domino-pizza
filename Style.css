@@ -1,0 +1,70 @@
+.ab {
+    width: 80px;
+    margin-right: 15%;
+    margin-left: 40px;
+}
+body {
+    background-color:  rgb(32, 126, 202);
+}
+.ab {
+    margin-top: 10px;
+}
+.para2 {
+    margin-left: 10%;
+    text-decoration: none;
+    color:white;
+    padding: 15px;
+    font-size: 20px;
+
+}
+.para2:hover{
+    background-color: rgb(177, 27, 27);
+    border-radius: 20px;
+    
+}
+.A {
+    margin-top: 10px;
+height: 180px;
+border-radius: 10px;
+}
+.B {
+    margin-top: 10px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.C {
+    height: 180px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.para3 {
+    float: left;
+}
+.AAA {
+    width: 70%;
+    
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 5%;
+    border-radius: 20px;
+}
+.cid {
+    display: inline;
+}
+.BBB {
+    margin-left: 30px;
+    margin-right: 5%;
+    border-radius: 20px;
+    float: left;
+
+}
+
+.CCC {
+    text-align: justify;
+    margin-right: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
